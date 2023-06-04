@@ -2,8 +2,8 @@ package DoublyLinkedList;
 import java.util.Scanner;
 
 /**
- *  * Lidor pahima
- *  * ID : 206735971
+ *  Lidor pahima
+ *  ID : 206735971
  * The Menu enum represents the available menu options.
  */
 public enum Menu {

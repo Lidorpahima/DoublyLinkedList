@@ -1,7 +1,7 @@
 package DoublyLinkedList;
 /**
- *  * Lidor pahima
- *  * ID : 206735971
+ *  Lidor pahima
+ *  ID : 206735971
  * Represents a Doubly Linked List data structure.
  * @param <T> the type of elements stored in the linked list
  */

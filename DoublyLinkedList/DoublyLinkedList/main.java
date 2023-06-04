@@ -5,8 +5,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- *  * Lidor pahima
- *  * ID : 206735971
+ *  Lidor pahima
+ *  ID : 206735971
  * The main class that contains the entry point of the program.
  */
 public class main {

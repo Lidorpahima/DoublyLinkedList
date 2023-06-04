@@ -3,7 +3,6 @@ package DoublyLinkedList;
  * Lidor pahima
  * ID : 206735971
  * The Node class represents a node in a doubly linked list.
- *
  * @param <T> the type of data stored in the node
  */
 public class Node<T> {
